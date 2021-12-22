@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on Python
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about Python
-- 📫 How to reach me: Twitter:itsdellal
+- 📫 How to reach me: Twitter: itsdellal
